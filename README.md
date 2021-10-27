@@ -1,1 +1,2 @@
-# Udacity-Machine-Learning-Engineer-Capstone-Project
+1) Capstone Project Proposal
+Consist of PDF document used for Proposal submission
